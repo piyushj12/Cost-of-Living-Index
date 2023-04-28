@@ -7,8 +7,8 @@ Final Project Submission by Group 7:
 4. Ilyas Safi - 801255078
 
 
--> Clone the repository 
--> After cloning the repository, open the terminal and go to the directory where app.py and CostofLivingIndexdataset.csv.
+-> Clone the repository\
+-> After cloning the repository, open the terminal and go to the directory where app.py and CostofLivingIndexdataset.csv.\
 -> Now,Install all the necessary packages below.
     streamlit, pandas, seaborn, matplotlib.pyplot, altair ,plotly.express
     Use the below command to install the packages
