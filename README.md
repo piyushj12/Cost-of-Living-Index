@@ -12,7 +12,7 @@ Final Project Submission by Group 7:
 -> Now,Install all the necessary packages below.
     streamlit, pandas, seaborn, matplotlib.pyplot, altair ,plotly.express
     Use the below command to install the packages
-    "pip install <packagename>"
--> Once all the packages are installed. go to the directory in which the app.py and csv file is downloaded and run the command " streamlit run app.py"
--> After that, you will directed to a localhost site where you can see the app running. 
+    "pip install <packagename>"\
+-> Once all the packages are installed. go to the directory in which the app.py and csv file is downloaded and run the command " streamlit run app.py"\
+-> After that, you will directed to a localhost site where you can see the app running.\
 
