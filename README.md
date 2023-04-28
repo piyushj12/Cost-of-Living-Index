@@ -1,6 +1,6 @@
 #README#
 
-Final Project Submission by: 
+Final Project Submission by Group 7: 
 1. Piyush Jain - 801257214
 2. Sai Nikhil Botla - 801269341
 3. Tharun Abhinav Suraneni - 801308975
