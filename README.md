@@ -1,4 +1,3 @@
-#README#
 
 -> Clone the repository\
 -> After cloning the repository, open the terminal and go to the directory where app.py and CostofLivingIndexdataset.csv.\
