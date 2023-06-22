@@ -1,12 +1,5 @@
 #README#
 
-Visual Analytics Group Project Submission by Group 7: 
-1. Piyush Jain - 801257214
-2. Sai Nikhil Botla - 801269341
-3. Tharun Abhinav Suraneni - 801308975
-4. Ilyas Safi - 801255078
-
-
 -> Clone the repository\
 -> After cloning the repository, open the terminal and go to the directory where app.py and CostofLivingIndexdataset.csv.\
 -> Now,Install all the necessary packages below.
