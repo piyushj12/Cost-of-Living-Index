@@ -14,7 +14,7 @@ This project presents a comprehensive visual analysis of the cost of living acro
     git clone [repository URL]
 
 2. **Navigate to Project Directory**:
-Open the terminal and change directory to where `app.py` and `CostofLivingIndexdataset.csv` are located.
+Open the terminal and change directory to where `app.py` and `costofliving.csv.csv` are located.
 
 3. **Install Dependencies**:
     Use this command to install necessary packages: 
