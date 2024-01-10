@@ -11,7 +11,7 @@ This project presents a comprehensive visual analysis of the cost of living acro
 
 ### Installation
 1. **Clone the Repository**:
-    git clone [repository URL]
+    git clone [https://github.com/piyushj12/Cost-of-Ling-Index.git]
 
 2. **Navigate to Project Directory**:
 Open the terminal and change directory to where `app.py` and `costofliving.csv.csv` are located.
